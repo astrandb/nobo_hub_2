@@ -1,2 +1,2 @@
-# nobo_hub_2
+# Nobö Energy Control - Nobö Hub
 Integration of Nobö Hub in Home Assistant
